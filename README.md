@@ -1,6 +1,6 @@
-# PictRubyGems
+# RubyPicoGems
 
-Sample Code of PictRuby.
+Sample Code of RubyPico.
 
 ## Install get_sample script
 
@@ -10,14 +10,14 @@ Sample Code of PictRuby.
 # # get_sample
 #
 # ## Description
-# Show sample code from PictRubyGems
+# Show sample code from RubyPicoGems
 
 def main
   url = "http://raw.githubusercontent.com"
   name = Popup.input "Name?(e.g. 'sepia' or 'ja/heisei')"
   name = URI.encode_www_form_component name
   
-  Browser.get "#{url}/ongaeshi/PictRubyGems/master/#{name}.rb"
+  Browser.get "#{url}/ongaeshi/RubyPicoGems/master/#{name}.rb"
 end
 ```
 
@@ -38,6 +38,6 @@ end
 
 ### 4. Search
 
-[PictRubyGem](https://github.com/ongaeshi/PictRubyGems)
+[RubyPicoGem](https://github.com/ongaeshi/RubyPicoGems)
 
 
