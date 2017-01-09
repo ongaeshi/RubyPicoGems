@@ -9,3 +9,4 @@ A collection of RubyPico libraries.
 
 ## Libraries
 - ongaeshi/rubypico_github - Download GitHub repository. Upload to Gist. [[Link]](https://github.com/ongaeshi/rubypico_github)
+- ongaeshi/hit_and_blow - Hit and Blow Game. [[Link]](https://github.com/ongaeshi/hit_and_blow)
