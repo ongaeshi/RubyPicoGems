@@ -8,4 +8,4 @@ A collection of RubyPico libraries.
 4. Install to RubyPico using github_download.rb
 
 ## Libraries
-- [ongaeshi/rubypico_github](https://github.com/ongaeshi/rubypico_github) - Download GitHub repository. Upload to Gist.
+- ongaeshi/rubypico_github - Download GitHub repository. Upload to Gist. [[Link]](https://github.com/ongaeshi/rubypico_github)
