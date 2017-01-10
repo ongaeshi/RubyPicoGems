@@ -8,5 +8,6 @@ A collection of RubyPico libraries.
 4. Install to RubyPico using github_download.rb
 
 ## Libraries
-- ongaeshi/rubypico_github - Download GitHub repository. Upload to Gist. [[Link]](https://github.com/ongaeshi/rubypico_github)
+- ongaeshi/app_installer - Install a script to .app/ directory. [[Link]](https://github.com/ongaeshi/app_installer)
 - ongaeshi/hit_and_blow - Hit and Blow Game. [[Link]](https://github.com/ongaeshi/hit_and_blow)
+- ongaeshi/rubypico_github - Download GitHub repository. Upload to Gist. [[Link]](https://github.com/ongaeshi/rubypico_github)
