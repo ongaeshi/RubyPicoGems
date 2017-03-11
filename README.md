@@ -13,3 +13,4 @@ A collection of RubyPico libraries.
 - hit_and_blow - Hit and Blow Game. [[Link]](https://github.com/rubypico/hit_and_blow)
 - image_filter - Image filters. Grid, Resize, Sepia... [[Link]](https://github.com/rubypico/image_filter)
 - rubypico_github - Download GitHub repository. Upload to Gist. [[Link]](https://github.com/rubypico/rubypico_github)
+- hatebu - DSL to efficiently collect bookmarks. [[Link]](https://github.com/rubypico/hatebu)
